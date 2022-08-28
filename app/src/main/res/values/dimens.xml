@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnRollMarginTop">16dp</dimen>
+    <dimen name="imgDefaultWidth">160dp</dimen>
+    <dimen name="imgDefaultHeight">200dp</dimen>
+</resources>
